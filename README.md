@@ -1,17 +1,35 @@
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+# Title
+## Description <a name="description"></a>
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+## Table of Contents
 
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
+- [Description](#description)
 
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
+- [Installation](#installation)
 
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
+- [Usage](#usage)
+
+- [License](#license)
+
+- [Contribution](#contribution)
+
+- [Testing](#testing)
+
+- [Questions](#questions)
+
+
+## Installation Instructions <a name="installation"></a>
+
+## Usage <a name="usage"></a>
+
+## License <a name="license"></a>
+MIT License
+## How to Contribute <a name="contribution"></a>
+
+## Testing <a name="testing"></a>
+
+## Questions <a name="questions"></a>
+
+[Click here to visit ActivePatience's GitHub profile page](https://www.github.com/ActivePatience)
+
+You can reach the owner of this project at the following email address: nobody@something.net
