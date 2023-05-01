@@ -3,17 +3,17 @@
 
 ## Table of Contents
 
-    - [Description](#description)
+    - [Description](#description) 
 
-    - [Installation](#installation)
+    - [Installation](#installation) 
 
-    - [Usage](#usage)
+    - [Usage](#usage) 
 
-    - [License](#license)
+    - [License](#license) 
 
-    - [Testing](#testing)
+    - [Testing](#testing) 
 
-    - [Questions](#questions)
+    - [Questions](#questions) 
 
     
 ## Installation Instructions
@@ -21,7 +21,7 @@
 ## Usage
 
 ## License
-GNU General Public License
+MIT License
 ## How to Contribute
 
 ## Testing
@@ -29,4 +29,5 @@ GNU General Public License
 ## Questions
 
 [Click here to visit ActivePatience's GitHub profile page](https://www.github.com/ActivePatience)
+
 You can reach the owner of this project at the following email address: nobody@something.net
