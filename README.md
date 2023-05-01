@@ -1,4 +1,4 @@
-# Title
+# Title   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 ## Description <a name="description"></a>
 
 ## Table of Contents
@@ -23,7 +23,7 @@
 ## Usage <a name="usage"></a>
 
 ## License <a name="license"></a>
-MIT License
+GNU General Public License
 ## How to Contribute <a name="contribution"></a>
 
 ## Testing <a name="testing"></a>
