@@ -1,32 +1,34 @@
-# 
-## Description
+# Title
+## Description <a name="description"></a>
 
 ## Table of Contents
 
-    [Description](#description) 
+    - [Description](#description)
 
-    [Installation](#installation) 
+    - [Installation](#installation)
 
-    [Usage](#usage) 
+    - [Usage](#usage)
 
-    [License](#license) 
+    - [License](#license)
 
-    [Testing](#testing) 
+    - [Contribution](#contribution)
 
-    [Questions](#questions) 
+    - [Testing](#testing)
+
+    - [Questions](#questions)
 
     
-## Installation Instructions
+## Installation Instructions <a name="installation"></a>
 
-## Usage
+## Usage <a name="usage"></a>
 
-## License
-Apache License 2.0
-## How to Contribute
+## License <a name="license"></a>
+MIT License
+## How to Contribute <a name="contribution"></a>
 
-## Testing
+## Testing <a name="testing"></a>
 
-## Questions
+## Questions <a name="questions"></a>
 
 [Click here to visit ActivePatience's GitHub profile page](https://www.github.com/ActivePatience)
 
