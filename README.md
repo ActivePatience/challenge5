@@ -1,4 +1,4 @@
-# Title   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+# Challenge 6 - Weather App   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 ## Description <a name="description"></a>
 
 ## Table of Contents
